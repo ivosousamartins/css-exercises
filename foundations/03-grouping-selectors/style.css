@@ -1,0 +1,21 @@
+/* style.css */
+
+/* General sytles */
+.first-button,
+.second-button {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+/* Button 1 */
+.first-button {
+    background-color: black;
+    color: white;
+}
+
+/* Button 2 */
+.second-button {
+    background-color: yellow;
+    color: black;
+}
+
