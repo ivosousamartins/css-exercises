@@ -1,0 +1,28 @@
+/* style.css */
+
+/* Number 1 */
+.odd {
+   background-color: #edafe3;
+   font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+/* Number 2 */
+#two {
+    color: blue;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Number 3 */
+.oddly-cool {
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Number 4 */
+#four {
+    background-color: #b9f0dc;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+}
